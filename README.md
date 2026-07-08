@@ -1,0 +1,1 @@
+A web-based quiz application built with Django, designed to provide an interactive platform for users to test their knowledge. This project features dynamic question management and a user-friendly interface to track performance.
